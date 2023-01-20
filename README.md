@@ -74,7 +74,7 @@
 ## Most  Use Languages
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machsh64)](https://github.com/machsh64/readme-stats-URL/)
-![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=machsh64&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.clckblog,space/api/top-langs/?username=machsh64)](https://readme-stats.clckblog.space)
+[![Ren's GitHub stats](https://github-readme-stats.clckblog,space/api?username=machsh64&show_icons=true&theme=tokyonight)](https://readme-stats.clckblog.space)
 
 <br/>  
