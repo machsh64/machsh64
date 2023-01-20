@@ -74,7 +74,7 @@
 ## Most  Use Languages
 
 
-[![Top Langs](https://readme-stats.clckblog,space/api/top-langs/?username=machsh64)](https://readme-stats.clckblog.space)
-[![Ren's GitHub stats](https://readme-stats.clckblog,space/api?username=machsh64&show_icons=true&theme=tokyonight)](https://readme-stats.clckblog.space)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=machsh64)](https://readme-stats.clckblog.space)
+[![Ren's GitHub stats](https://readme-stats.clckblog.space/api?username=machsh64&show_icons=true&theme=tokyonight)](https://readme-stats.clckblog.space)
 
 <br/>  
