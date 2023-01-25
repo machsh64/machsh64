@@ -23,7 +23,7 @@
 - ⚡ Maybe I should ride Tibet next year
 
 
-- 😚 My blog <a href="https://igotu.top"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&repeat=false&width=435&lines=Ren+%7Clife" alt="Typing SVG" /><</a>
+- 😚 My blog <a href="https://igotu.top"> Ren |life</a>
   
 
 <br/>  
