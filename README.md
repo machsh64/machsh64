@@ -17,13 +17,13 @@
 - 🌱 I’m currently learning SpringBoot and Network security  
   
 
-- ❓ Maybe one day I'll sell bread  
+- ❓ Is it sick to have no interest in doing anything
   
 
-- ⚡ The funny thing about that is I got mugged this morning.  
+- ⚡ Maybe I should ride Tibet next year
 
 
-- 😚 my blog <a href="https://igotu.top">Ren |life</a>
+- 😚 My blog <a href="https://igotu.top"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&repeat=false&width=435&lines=Ren+%7Clife" alt="Typing SVG" /><</a>
   
 
 <br/>  
