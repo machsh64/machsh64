@@ -20,7 +20,10 @@
 - ❓ Maybe one day I'll sell bread  
   
 
-- ⚡The funny thing about that is I got mugged this morning.  
+- ⚡ The funny thing about that is I got mugged this morning.  
+
+
+- 😚 my blog <a href="https://igotu.top">Ren |life</a>
   
 
 <br/>  
