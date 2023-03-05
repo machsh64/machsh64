@@ -11,7 +11,7 @@
 </div>  
   
 
-### <div align="center">I'm Ren, a all free-time nothing to do developer♿  working remotely since 2021 🚀</div>  
+### <div align="center">I'm Ren, an all free-time nothing to do developer♿  working remotely since 2021 🚀</div>  
   
 
 - 🌱 I’m currently learning Docker and SpringCloud  
