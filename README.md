@@ -77,7 +77,7 @@
 ## Most  Use Languages
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machsh64&layout=compact&theme=tokyonight)]
-[![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=machsh64&layout=compact&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machsh64&layout=compact&theme=tokyonight)
+![Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=machsh64&layout=compact&theme=tokyonight)
 
 <br/>  
